@@ -56,7 +56,7 @@ Team repositories document each team's focus, responsibilities, projects, and wo
 | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Arc](https://github.com/octacity-org/.ARC)     | Applied AI and user-centric productization. ARC focuses on turning technical and AI capabilities into complete, usable products.                                |
 | [Lucid](https://github.com/octacity-org/.LUCID) | Artificial intelligence, machine learning, data, evaluation, tooling, and the engineering required to make AI systems understandable, reproducible, and usable. |
-| [Aegis](https://github.com/octacity-org/.AEGIS) | One of Octacity's eight main teams. Its specific focus area is still being defined.                                                                             |
+| [Aegis](https://github.com/octacity-org/.AEGIS) | Product design and development. AEGIS was formed to design and build products, complete applications that start from a real problem and are maintained like real products. Its first product is [Vigil](https://github.com/octacity-org/vigil). |
 
 Additional team repositories will be added here as the remaining Octacity teams are formed.
 
